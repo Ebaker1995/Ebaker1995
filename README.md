@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I love to golf!**
 
-- <p><a href="">Here is a link to my website!</a></p>
+- <p><a href="https://ericbaker.netlify.app">Here is a link to my website!</a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- Here is my Website! <a href="https://ericbaker.dev" target="blank"></a>
+ <a href="https://ericbaker.dev" target="blank">- Here is my Website!</a>
 
 - ⚡ Fun fact **I love to golf!**
 
